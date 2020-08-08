@@ -1,0 +1,35 @@
+body {
+  background-color: #000;
+}
+
+.wrapper {
+  width: 1010px;
+  height: 1300px;
+  background-color: rgb(216, 216, 216);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  border-top: 10px solid #000;
+  border-bottom: 10px solid #000;
+}
+
+section {
+  display: flex;
+  height: 1100px;
+}
+
+article {
+  width: 28vw;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  border-top: 10px solid #000;
+}
